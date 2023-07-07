@@ -2,7 +2,7 @@
 
 A modern YouTube Clone application built with React.js and Material-UI.
 
-![Project Preview](/ytc.png)
+![Project Preview](/YouTubeClone.png)
 
 ## Live Demo
 
