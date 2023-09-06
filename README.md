@@ -1,4 +1,4 @@
-# YouTube Clone Application
+# YouTube Clone Application 📽️
 
 A modern YouTube Clone application built with React.js and Material-UI.
 
